@@ -55,6 +55,9 @@ font-family: 'Times New Roman', Times, serif;
 font-size: 20;
 width: auto;
 }
+.greeting{
+  color: #dd7b4d;
+}
 .yo {
     text-align: center;
     flex-wrap: wrap;
